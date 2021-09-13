@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lateef\\Desktop\\Working Copy\\ConceptExamples\\PracticeConcept\\PracticeConcept.API.csproj": {}
+    "C:\\Users\\Lateef\\Desktop\\Working Copy\\ConceptExamples-old\\PracticeConcept\\PracticeConcept.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lateef\\Desktop\\Working Copy\\ConceptExamples\\PracticeConcept.Common\\PracticeConcept.Common.csproj": {
+    "C:\\Users\\Lateef\\Desktop\\Working Copy\\ConceptExamples-old\\PracticeConcept.Common\\PracticeConcept.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lateef\\Desktop\\Working Copy\\ConceptExamples\\PracticeConcept.Common\\PracticeConcept.Common.csproj",
+        "projectUniqueName": "C:\\Users\\Lateef\\Desktop\\Working Copy\\ConceptExamples-old\\PracticeConcept.Common\\PracticeConcept.Common.csproj",
         "projectName": "PracticeConcept.Common",
-        "projectPath": "C:\\Users\\Lateef\\Desktop\\Working Copy\\ConceptExamples\\PracticeConcept.Common\\PracticeConcept.Common.csproj",
+        "projectPath": "C:\\Users\\Lateef\\Desktop\\Working Copy\\ConceptExamples-old\\PracticeConcept.Common\\PracticeConcept.Common.csproj",
         "packagesPath": "C:\\Users\\Lateef\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lateef\\Desktop\\Working Copy\\ConceptExamples\\PracticeConcept.Common\\obj\\",
+        "outputPath": "C:\\Users\\Lateef\\Desktop\\Working Copy\\ConceptExamples-old\\PracticeConcept.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lateef\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\Users\\Lateef\\Desktop\\Working Copy\\ConceptExamples\\PracticeConcept.Infrastructure\\PracticeConcept.Infrastructure.csproj": {
+    "C:\\Users\\Lateef\\Desktop\\Working Copy\\ConceptExamples-old\\PracticeConcept.Infrastructure\\PracticeConcept.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lateef\\Desktop\\Working Copy\\ConceptExamples\\PracticeConcept.Infrastructure\\PracticeConcept.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Lateef\\Desktop\\Working Copy\\ConceptExamples-old\\PracticeConcept.Infrastructure\\PracticeConcept.Infrastructure.csproj",
         "projectName": "PracticeConcept.Infrastructure",
-        "projectPath": "C:\\Users\\Lateef\\Desktop\\Working Copy\\ConceptExamples\\PracticeConcept.Infrastructure\\PracticeConcept.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Lateef\\Desktop\\Working Copy\\ConceptExamples-old\\PracticeConcept.Infrastructure\\PracticeConcept.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Lateef\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lateef\\Desktop\\Working Copy\\ConceptExamples\\PracticeConcept.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Lateef\\Desktop\\Working Copy\\ConceptExamples-old\\PracticeConcept.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lateef\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -112,14 +112,14 @@
         }
       }
     },
-    "C:\\Users\\Lateef\\Desktop\\Working Copy\\ConceptExamples\\PracticeConcept\\PracticeConcept.API.csproj": {
+    "C:\\Users\\Lateef\\Desktop\\Working Copy\\ConceptExamples-old\\PracticeConcept\\PracticeConcept.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lateef\\Desktop\\Working Copy\\ConceptExamples\\PracticeConcept\\PracticeConcept.API.csproj",
+        "projectUniqueName": "C:\\Users\\Lateef\\Desktop\\Working Copy\\ConceptExamples-old\\PracticeConcept\\PracticeConcept.API.csproj",
         "projectName": "PracticeConcept.API",
-        "projectPath": "C:\\Users\\Lateef\\Desktop\\Working Copy\\ConceptExamples\\PracticeConcept\\PracticeConcept.API.csproj",
+        "projectPath": "C:\\Users\\Lateef\\Desktop\\Working Copy\\ConceptExamples-old\\PracticeConcept\\PracticeConcept.API.csproj",
         "packagesPath": "C:\\Users\\Lateef\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lateef\\Desktop\\Working Copy\\ConceptExamples\\PracticeConcept\\obj\\",
+        "outputPath": "C:\\Users\\Lateef\\Desktop\\Working Copy\\ConceptExamples-old\\PracticeConcept\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lateef\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -136,11 +136,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Lateef\\Desktop\\Working Copy\\ConceptExamples\\PracticeConcept.Common\\PracticeConcept.Common.csproj": {
-                "projectPath": "C:\\Users\\Lateef\\Desktop\\Working Copy\\ConceptExamples\\PracticeConcept.Common\\PracticeConcept.Common.csproj"
+              "C:\\Users\\Lateef\\Desktop\\Working Copy\\ConceptExamples-old\\PracticeConcept.Common\\PracticeConcept.Common.csproj": {
+                "projectPath": "C:\\Users\\Lateef\\Desktop\\Working Copy\\ConceptExamples-old\\PracticeConcept.Common\\PracticeConcept.Common.csproj"
               },
-              "C:\\Users\\Lateef\\Desktop\\Working Copy\\ConceptExamples\\PracticeConcept.Infrastructure\\PracticeConcept.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Lateef\\Desktop\\Working Copy\\ConceptExamples\\PracticeConcept.Infrastructure\\PracticeConcept.Infrastructure.csproj"
+              "C:\\Users\\Lateef\\Desktop\\Working Copy\\ConceptExamples-old\\PracticeConcept.Infrastructure\\PracticeConcept.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Lateef\\Desktop\\Working Copy\\ConceptExamples-old\\PracticeConcept.Infrastructure\\PracticeConcept.Infrastructure.csproj"
               }
             }
           }
