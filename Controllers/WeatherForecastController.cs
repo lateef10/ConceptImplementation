@@ -80,7 +80,7 @@ namespace PracticeConcept.Controllers
             .ToArray();
         }
 
-        //testing the WeatherForecast Filter Attribute
+        //testing the WeatherForecast Filter Attribute 
         [WeatherForecastFilter]
         [HttpDelete("DeleteWeatherForecast")]
         public ActionResult<IEnumerable<WeatherForecast>> Delete(int val)
