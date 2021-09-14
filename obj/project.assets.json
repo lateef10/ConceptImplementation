@@ -7940,11 +7940,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lateef\\Desktop\\Working Copy\\ConceptExamples-old\\PracticeConcept\\PracticeConcept.API.csproj",
+      "projectUniqueName": "C:\\Users\\Lateef\\Desktop\\Working Copy\\ConceptImplementation\\PracticeConcept\\PracticeConcept.API.csproj",
       "projectName": "PracticeConcept.API",
-      "projectPath": "C:\\Users\\Lateef\\Desktop\\Working Copy\\ConceptExamples-old\\PracticeConcept\\PracticeConcept.API.csproj",
+      "projectPath": "C:\\Users\\Lateef\\Desktop\\Working Copy\\ConceptImplementation\\PracticeConcept\\PracticeConcept.API.csproj",
       "packagesPath": "C:\\Users\\Lateef\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lateef\\Desktop\\Working Copy\\ConceptExamples-old\\PracticeConcept\\obj\\",
+      "outputPath": "C:\\Users\\Lateef\\Desktop\\Working Copy\\ConceptImplementation\\PracticeConcept\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lateef\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7961,11 +7961,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Lateef\\Desktop\\Working Copy\\ConceptExamples-old\\PracticeConcept.Common\\PracticeConcept.Common.csproj": {
-              "projectPath": "C:\\Users\\Lateef\\Desktop\\Working Copy\\ConceptExamples-old\\PracticeConcept.Common\\PracticeConcept.Common.csproj"
+            "C:\\Users\\Lateef\\Desktop\\Working Copy\\ConceptImplementation\\PracticeConcept.Common\\PracticeConcept.Common.csproj": {
+              "projectPath": "C:\\Users\\Lateef\\Desktop\\Working Copy\\ConceptImplementation\\PracticeConcept.Common\\PracticeConcept.Common.csproj"
             },
-            "C:\\Users\\Lateef\\Desktop\\Working Copy\\ConceptExamples-old\\PracticeConcept.Infrastructure\\PracticeConcept.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Lateef\\Desktop\\Working Copy\\ConceptExamples-old\\PracticeConcept.Infrastructure\\PracticeConcept.Infrastructure.csproj"
+            "C:\\Users\\Lateef\\Desktop\\Working Copy\\ConceptImplementation\\PracticeConcept.Infrastructure\\PracticeConcept.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Lateef\\Desktop\\Working Copy\\ConceptImplementation\\PracticeConcept.Infrastructure\\PracticeConcept.Infrastructure.csproj"
             }
           }
         }
