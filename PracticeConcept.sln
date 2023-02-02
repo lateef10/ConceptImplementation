@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31410.357
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PracticeConcept.API", "PracticeConcept.API.csproj", "{023EE67A-88F4-4BC5-AE3F-E490FA34F306}"
 EndProject
@@ -10,6 +10,10 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PracticeConcept.Core", "..\PracticeConcept.Core\PracticeConcept.Core.csproj", "{0B9E5A54-603A-4BAA-AABA-B7454499ADDA}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PracticeConcept.Common", "..\PracticeConcept.Common\PracticeConcept.Common.csproj", "{2CDF36E5-82C0-4148-B99B-C3F22C417D13}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IBM.AS400", "..\IBM.AS400\IBM.AS400.csproj", "{AECC1486-EA94-447F-B682-7DCA55412D06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthenticationAuthorization", "..\AuthenticationAuthorization\AuthenticationAuthorization.csproj", "{1EDAD117-1FF2-4EA5-B1FF-E5CAABDA87F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{2CDF36E5-82C0-4148-B99B-C3F22C417D13}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CDF36E5-82C0-4148-B99B-C3F22C417D13}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CDF36E5-82C0-4148-B99B-C3F22C417D13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AECC1486-EA94-447F-B682-7DCA55412D06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AECC1486-EA94-447F-B682-7DCA55412D06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AECC1486-EA94-447F-B682-7DCA55412D06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AECC1486-EA94-447F-B682-7DCA55412D06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EDAD117-1FF2-4EA5-B1FF-E5CAABDA87F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EDAD117-1FF2-4EA5-B1FF-E5CAABDA87F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EDAD117-1FF2-4EA5-B1FF-E5CAABDA87F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EDAD117-1FF2-4EA5-B1FF-E5CAABDA87F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
